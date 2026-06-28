@@ -1,0 +1,112 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ztv.alpine" tvg-name="Alpine Peaks" tvg-logo="logos/alpine.png" group-title="🏔️ Mountains",Alpine Peaks
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a1.mp4
+
+#EXTINF:-1 tvg-id="ztv.snowridge" tvg-name="Snow Ridge" tvg-logo="logos/snowridge.png" group-title="🏔️ Mountains",Snow Ridge
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a2.mp4
+
+#EXTINF:-1 tvg-id="ztv.rockysummit" tvg-name="Rocky Summit" tvg-logo="logos/rockysummit.png" group-title="🏔️ Mountains",Rocky Summit
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a3.mp4
+
+#EXTINF:-1 tvg-id="ztv.highaltitude" tvg-name="High Altitude" tvg-logo="logos/highaltitude.png" group-title="🏔️ Mountains",High Altitude
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a4.mp4
+
+#EXTINF:-1 tvg-id="ztv.mountainescape" tvg-name="Mountain Escape" tvg-logo="logos/mountainescape.png" group-title="🏔️ Mountains",Mountain Escape
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a5.mp4
+
+#EXTINF:-1 tvg-id="ztv.nordicforest" tvg-name="Nordic Forest" tvg-logo="logos/nordicforest.png" group-title="🌲 Forests",Nordic Forest
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a6.mp4
+
+#EXTINF:-1 tvg-id="ztv.greentrails" tvg-name="Green Trails" tvg-logo="logos/greentrails.png" group-title="🌲 Forests",Green Trails
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a7.mp4
+
+#EXTINF:-1 tvg-id="ztv.deepwoods" tvg-name="Deep Woods" tvg-logo="logos/deepwoods.png" group-title="🌲 Forests",Deep Woods
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a8.mp4
+
+#EXTINF:-1 tvg-id="ztv.pinevalley" tvg-name="Pine Valley" tvg-logo="logos/pinevalley.png" group-title="🌲 Forests",Pine Valley
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a9.mp4
+
+#EXTINF:-1 tvg-id="ztv.silentforest" tvg-name="Silent Forest" tvg-logo="logos/silentforest.png" group-title="🌲 Forests",Silent Forest
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a10.mp4
+
+#EXTINF:-1 tvg-id="ztv.blueocean" tvg-name="Blue Ocean" tvg-logo="logos/blueocean.png" group-title="🌊 Oceans",Blue Ocean
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a11.mp4
+
+#EXTINF:-1 tvg-id="ztv.oceanbreeze" tvg-name="Ocean Breeze" tvg-logo="logos/oceanbreeze.png" group-title="🌊 Oceans",Ocean Breeze
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a12.mp4
+
+#EXTINF:-1 tvg-id="ztv.crystalsea" tvg-name="Crystal Sea" tvg-logo="logos/crystalsea.png" group-title="🌊 Oceans",Crystal Sea
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a13.mp4
+
+#EXTINF:-1 tvg-id="ztv.deepblue" tvg-name="Deep Blue" tvg-logo="logos/deepblue.png" group-title="🌊 Oceans",Deep Blue
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a14.mp4
+
+#EXTINF:-1 tvg-id="ztv.coastalview" tvg-name="Coastal View" tvg-logo="logos/coastalview.png" group-title="🌊 Oceans",Coastal View
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a15.mp4
+
+#EXTINF:-1 tvg-id="ztv.hiddenfalls" tvg-name="Hidden Falls" tvg-logo="logos/hiddenfalls.png" group-title="💦 Waterfalls",Hidden Falls
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a16.mp4
+
+#EXTINF:-1 tvg-id="ztv.rivercascade" tvg-name="River Cascade" tvg-logo="logos/rivercascade.png" group-title="💦 Waterfalls",River Cascade
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a17.mp4
+
+#EXTINF:-1 tvg-id="ztv.emeraldfalls" tvg-name="Emerald Falls" tvg-logo="logos/emeraldfalls.png" group-title="💦 Waterfalls",Emerald Falls
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a18.mp4
+
+#EXTINF:-1 tvg-id="ztv.wildrapids" tvg-name="Wild Rapids" tvg-logo="logos/wildrapids.png" group-title="💦 Waterfalls",Wild Rapids
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a19.mp4
+
+#EXTINF:-1 tvg-id="ztv.mistywaterfall" tvg-name="Misty Waterfall" tvg-logo="logos/mistywaterfall.png" group-title="💦 Waterfalls",Misty Waterfall
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a20.mp4
+
+#EXTINF:-1 tvg-id="ztv.wildnature" tvg-name="Wild Nature" tvg-logo="logos/wildnature.png" group-title="🦅 Wildlife",Wild Nature
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a21.mp4
+
+#EXTINF:-1 tvg-id="ztv.birdkingdom" tvg-name="Bird Kingdom" tvg-logo="logos/birdkingdom.png" group-title="🦅 Wildlife",Bird Kingdom
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a22.mp4
+
+#EXTINF:-1 tvg-id="ztv.safarivision" tvg-name="Safari Vision" tvg-logo="logos/safarivision.png" group-title="🦅 Wildlife",Safari Vision
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a23.mp4
+
+#EXTINF:-1 tvg-id="ztv.forestanimals" tvg-name="Forest Animals" tvg-logo="logos/forestanimals.png" group-title="🦅 Wildlife",Forest Animals
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a24.mp4
+
+#EXTINF:-1 tvg-id="ztv.natureexplorer" tvg-name="Nature Explorer" tvg-logo="logos/natureexplorer.png" group-title="🦅 Wildlife",Nature Explorer
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a25.mp4
+
+#EXTINF:-1 tvg-id="ztv.skyexplorer" tvg-name="Sky Explorer" tvg-logo="logos/skyexplorer.png" group-title="🚁 Drone Views",Sky Explorer
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a26.mp4
+
+#EXTINF:-1 tvg-id="ztv.aboveearth" tvg-name="Above Earth" tvg-logo="logos/aboveearth.png" group-title="🚁 Drone Views",Above Earth
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a27.mp4
+
+#EXTINF:-1 tvg-id="ztv.dronevision" tvg-name="Drone Vision" tvg-logo="logos/dronevision.png" group-title="🚁 Drone Views",Drone Vision
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a28.mp4
+
+#EXTINF:-1 tvg-id="ztv.scenicflight" tvg-name="Scenic Flight" tvg-logo="logos/scenicflight.png" group-title="🚁 Drone Views",Scenic Flight
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a29.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview30" tvg-name="Horizon View 30" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 30
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a30.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview31" tvg-name="Horizon View 31" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 31
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a31.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview32" tvg-name="Horizon View 32" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 32
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a32.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview33" tvg-name="Horizon View 33" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 33
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a33.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview34" tvg-name="Horizon View 34" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 34
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a34.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview35" tvg-name="Horizon View 35" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 35
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a35.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview36" tvg-name="Horizon View 36" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 36
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a36.mp4
+
+#EXTINF:-1 tvg-id="ztv.horizonview37" tvg-name="Horizon View 37" tvg-logo="logos/horizonview.png" group-title="🚁 Drone Views",Horizon View 37
+https://github.com/cengizucak/iptvmp4/releases/download/t3/a37.mp4
